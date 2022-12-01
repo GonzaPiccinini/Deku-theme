@@ -1,0 +1,31 @@
+{
+  "name": "deku-theme",
+  "displayName": "Deku-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deku Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deku Theme-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "Gonzalo Piccinini",
+    "email": "gonzipiccinini@gmail.com",
+    "url": "https://www.linkedin.com/in/gonzalo-piccinini-9a7378227/"
+  },
+  "repository": {
+    "url": "https://github.com/GonzaPiccinini/Deku-theme",
+    "type": "git"
+  },
+  "publisher": "first-theme-deku"
+}
